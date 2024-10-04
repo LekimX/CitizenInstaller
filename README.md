@@ -1,6 +1,8 @@
 # CitizenInstaller
 Instalador automático de citizen, mods y plugins para FiveM
 
+[CUALQUIER VENTA O DISTRIBUCIÓN ILEGITIMA DE MI CÓDIGO SERÁ DENUNCIADA]
+
 El codigo de python se puede descargar y usar tal cual, pero está pensado para incluir musica y el logo del ejecutable, tras compilarlo con pyInstaller.
 
 Es recomendable usar el ejecutable que se descarga junto a los citizen, pero si eres un usuario experimentado podrás editar el codigo a tu gusto fácilmente y compilarlo de nuevo.
