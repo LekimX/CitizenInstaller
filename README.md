@@ -3,7 +3,11 @@ Instalador automático de citizen, mods y plugins para FiveM
 
 Gracias por descargar mi aplicación para cambiar entre citizens de forma rápida y eficaz.
 
-Para usarlo, primero deberéis seleccionar la ruta de FiveM:
+Para usarlo, primero deberéis descargar los citizens pvp y realista que os aporto en 
+
+https://gofile.io/d/Iyq0WD   <---- IMPORTANTE!
+
+después de descargarlo descomprimidlo y para comenzar a instalar, deberéis seleccionar la ruta de FiveM:
 
 En el acceso directo del escritorio, debes hacer click derecho y ir a propiedades.
 Una vez allí pinchamos en abrir ubicación y nos vamos a el archivo que tiene un caracol; FiveM Application Data.
