@@ -28,6 +28,14 @@ Espero que disfutéis de la aplicación, cualquier descarga de un lugar que no s
 
 Para unirte a mi discord oficial usa el link https://discord.gg/PVG4NVw4 | https://discord.gg/PVG4NVw4 | https://discord.gg/PVG4NVw4 | https://discord.gg/PVG4NVw4 | https://discord.gg/PVG4NVw4
 
+PREVIEW PVP:
+
+![image](https://github.com/user-attachments/assets/4c60902a-8a1c-4643-a835-4dd7030ed6fe)
+
+PREVIEW REALISTA:
+
+![image](https://github.com/user-attachments/assets/16836d11-c6da-4bdb-bd27-6734e2a17c22)
+
 Para encontrarme en Discord: #lekimog                                                                        
                                                                             
                            
